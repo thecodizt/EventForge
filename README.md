@@ -13,11 +13,10 @@ The heart of EventForge lies in its ability to learn from and generate event seq
 Our event schema is designed to be minimal yet comprehensive:
 
 ```
-event_id, timestamp, event_type, agent_id, context
+cycle, event_type, agent_id, context
 ```
 
-- **event_id**: Unique identifier for each event
-- **timestamp**: ISO8601 formatted timestamp (e.g., "2024-06-29T10:30:00Z")
+- **cycle**: An incrementing integer representing the sequence of events
 - **event_type**: Category of the event
 - **agent_id**: Identifier of the agent initiating the event
 - **context**: JSON-formatted string containing additional event details
@@ -25,7 +24,7 @@ event_id, timestamp, event_type, agent_id, context
 Example:
 
 ```
-001, 2024-06-29T10:30:00Z, MOVE, player1, {"game":"chess", "piece":"pawn", "from":"e2", "to":"e4"}
+1, MOVE, player1, {"game":"chess", "piece":"pawn", "from":"e2", "to":"e4"}
 ```
 
 ## Key Features
