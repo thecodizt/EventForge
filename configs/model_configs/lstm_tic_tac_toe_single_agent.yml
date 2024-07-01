@@ -1,0 +1,14 @@
+model:
+  type: "LSTM"
+  hidden_size: 256
+  num_layers: 2
+
+training:
+  batch_size: 64
+  learning_rate: 0.001
+  num_epochs: 10
+
+data:
+  game: "tic-tac-toe"
+  sequence_length: 20
+  path: "/games/chess/1k_single_agent.csv"
