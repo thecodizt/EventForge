@@ -1,7 +1,7 @@
-name: "lstm_tic_tac_toe_single_agent_1k_model"
+name: "rnn_tic_tac_toe_single_agent_1k_model"
 
 model:
-  type: "LSTM"
+  type: "RNN"
   embedding_dim: 128
   hidden_size: 256
   num_layers: 2
