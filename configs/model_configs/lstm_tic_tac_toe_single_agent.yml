@@ -1,12 +1,12 @@
 model:
   type: "LSTM"
   hidden_size: 256
-  num_layers: 2
+  num_layers: 1
 
 training:
   batch_size: 64
   learning_rate: 0.001
-  num_epochs: 10
+  num_epochs: 3
 
 data:
   game: "tic-tac-toe"
