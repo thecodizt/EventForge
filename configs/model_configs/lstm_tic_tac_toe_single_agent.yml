@@ -2,8 +2,9 @@ name: "lstm_tic_tac_toe_single_agent_1k_model"
 
 model:
   type: "LSTM"
+  embedding_dim: 128
   hidden_size: 256
-  num_layers: 1
+  num_layers: 2
 
 training:
   batch_size: 64
@@ -13,4 +14,5 @@ training:
 data:
   game: "tic-tac-toe"
   sequence_length: 20
+  max_event_length: 10
   path: "/games/tic-tac-toe/1k_single_agent.csv"
