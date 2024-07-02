@@ -37,7 +37,7 @@ class EventDataset(Dataset):
             event_encoding = self.encode_event(event)
             input_seq.append(event_encoding)
 
-        input_tensor = [torch.tensor(seq) for seq in input_seq]
+        input_tensor = [torch.tensor(seq).clone().detach() for seq in input_seq]
         target_tensor = self.encode_event(target)
 
         return input_tensor, target_tensor, sequence, target
@@ -58,12 +58,13 @@ class EventDataset(Dataset):
 
     def decode_event(self, encoded_event):
         decoded = {}
-        decoded['cycle'] = self.index_to_token[encoded_event[0].item()]
-        decoded['event_type'] = self.index_to_token[encoded_event[1].item()]
-        decoded['agent_id'] = self.index_to_token[encoded_event[2].item()]
+        decoded['cycle'] = self.index_to_token.get(encoded_event[0].item(), '<PAD>')
+        decoded['event_type'] = self.index_to_token.get(encoded_event[1].item(), '<PAD>')
+        decoded['agent_id'] = self.index_to_token.get(encoded_event[2].item(), '<PAD>')
         decoded['context'] = {}
-        for i in range(3, len(encoded_event), 2):
-            key = self.index_to_token[encoded_event[i].item()]
-            value = self.index_to_token[encoded_event[i+1].item()]
-            decoded['context'][key] = value
+        for i in range(3, len(encoded_event) - 1, 2):  # Ensure we don't go out of bounds
+            key = self.index_to_token.get(encoded_event[i].item(), '<PAD>')
+            value = self.index_to_token.get(encoded_event[i+1].item(), '<PAD>')
+            if key != '<PAD>' and value != '<PAD>':
+                decoded['context'][key] = value
         return decoded
