@@ -1,3 +1,5 @@
+name: "lstm_tic_tac_toe_single_agent_1k_model"
+
 model:
   type: "LSTM"
   hidden_size: 256
@@ -11,4 +13,4 @@ training:
 data:
   game: "tic-tac-toe"
   sequence_length: 20
-  path: "/games/chess/1k_single_agent.csv"
+  path: "/games/tic-tac-toe/1k_single_agent.csv"
