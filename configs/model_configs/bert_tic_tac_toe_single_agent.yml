@@ -1,0 +1,24 @@
+name: "bert_tic_tac_toe_single_agent_1k_model"
+
+model:
+  type: "BERT"
+  pretrained_model: "bert-base-uncased"
+  hidden_size: 768  # This is typically fixed for BERT-base
+  num_layers: 12    # This is typically fixed for BERT-base
+
+training:
+  batch_size: 16    # Typically smaller for BERT due to memory constraints
+  learning_rate: 0.001  # Typically smaller for fine-tuning BERT
+  num_epochs: 10     # Fewer epochs are often sufficient for BERT
+  warmup_steps: 500  # Warmup steps for learning rate scheduler
+
+data:
+  game: "tic-tac-toe"
+  sequence_length: 20
+  max_event_length: 10
+  path: "/games/tic-tac-toe/1k_single_agent.csv"
+
+tokenizer:
+  max_length: 128   # Maximum sequence length for BERT tokenizer
+  padding: "max_length"
+  truncation: true
