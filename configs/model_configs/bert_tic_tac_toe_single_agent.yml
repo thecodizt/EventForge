@@ -9,7 +9,7 @@ model:
 training:
   batch_size: 16    # Typically smaller for BERT due to memory constraints
   learning_rate: 0.001  # Typically smaller for fine-tuning BERT
-  num_epochs: 10     # Fewer epochs are often sufficient for BERT
+  num_epochs: 15     # Fewer epochs are often sufficient for BERT
   warmup_steps: 500  # Warmup steps for learning rate scheduler
 
 data:
