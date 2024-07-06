@@ -1,0 +1,18 @@
+name: "rnn_tic_tac_toe_single_agent_1k_model"
+
+model:
+  type: "RNN"
+  embedding_dim: 128
+  hidden_size: 100
+  num_layers: 2
+
+training:
+  batch_size: 64
+  learning_rate: 0.001
+  num_epochs: 5
+
+data:
+  game: "tic-tac-toe"
+  sequence_length: 20
+  max_event_length: 3
+  path: "/games/tic-tac-toe/1k_single_agent.csv"

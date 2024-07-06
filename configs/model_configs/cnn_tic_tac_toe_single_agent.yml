@@ -14,5 +14,5 @@ training:
 data:
   game: "tic-tac-toe"
   sequence_length: 20
-  max_event_length: 10
-  path: "/games/tic-tac-toe/1k_single_agent.csv"
+  max_event_length: 3
+  path: "/games/tic-tac-toe/10k_single_agent.csv"

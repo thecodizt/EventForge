@@ -2,7 +2,7 @@ name: "bert_tic_tac_toe_single_agent_1k_model"
 
 model:
   type: "BERT"
-  pretrained_model: "bert-base-uncased"
+  pretrained_model: "bert-base-uncased"  # Specify the pretrained BERT model
   hidden_size: 768  # This is typically fixed for BERT-base
   num_layers: 12    # This is typically fixed for BERT-base
 
