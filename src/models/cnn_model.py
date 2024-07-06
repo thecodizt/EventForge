@@ -13,28 +13,14 @@ class CNNModel(nn.Module):
         self.max_event_length = max_event_length
 
     def forward(self, x):
-        # x shape: (batch_size, sequence_length, event_length)
         batch_size, sequence_length, event_length = x.shape
-        
-        # Embed the input
         embedded = self.embedding(x)  # (batch_size, sequence_length, event_length, embedding_dim)
-        
-        # Reshape for 1D convolution
         embedded = embedded.view(batch_size, sequence_length, -1)  # (batch_size, sequence_length, event_length * embedding_dim)
         embedded = embedded.permute(0, 2, 1)  # (batch_size, event_length * embedding_dim, sequence_length)
-        
-        # Apply convolutions
         conv_results = [F.relu(conv(embedded)) for conv in self.convs]
-        
-        # Apply max pooling
         pooled_results = [F.max_pool1d(res, res.size(2)).squeeze(2) for res in conv_results]
-        
-        # Concatenate pooled results
         cat = torch.cat(pooled_results, 1)
-        
-        # Apply fully connected layer
         output = self.fc(cat)
-        
         return output
 
 def create_model(config, vocab_size):
