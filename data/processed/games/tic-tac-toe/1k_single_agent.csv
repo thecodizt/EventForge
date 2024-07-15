@@ -1,0 +1,9619 @@
+event_type,agent_id,context
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+MOVE,X,"2,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,2"
+MOVE,X,"0,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"0,2"
+MOVE,X,"1,0"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"1,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"0,2"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"2,0"
+MOVE,O,"0,1"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+MOVE,O,"1,2"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"2,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"2,2"
+MOVE,X,"2,0"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+MOVE,X,"2,0"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"1,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"2,0"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"0,0"
+MOVE,O,"2,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+MOVE,O,"1,0"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,0"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"2,1"
+MOVE,O,"1,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"0,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,0"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"2,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"0,0"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"2,2"
+MOVE,X,"2,1"
+MOVE,O,"1,1"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,1"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+GAME_END,system,O
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,0"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"0,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"1,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"0,1"
+MOVE,X,"0,2"
+MOVE,O,"2,0"
+MOVE,X,"1,2"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"0,2"
+MOVE,O,"1,0"
+MOVE,X,"2,0"
+MOVE,O,"1,2"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"0,1"
+MOVE,O,"0,0"
+MOVE,X,"1,1"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,1"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+MOVE,O,"1,2"
+MOVE,X,"0,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"1,2"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+MOVE,O,"1,1"
+MOVE,X,"2,1"
+MOVE,O,"2,2"
+MOVE,X,"1,0"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"1,2"
+MOVE,X,"1,0"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+MOVE,O,"2,0"
+MOVE,X,"0,2"
+MOVE,O,"0,1"
+MOVE,X,"0,0"
+GAME_END,system,X
+GAME_START,system,New Game
+MOVE,X,"2,2"
+MOVE,O,"2,1"
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"0,1"
+MOVE,O,"1,0"
+MOVE,X,"1,2"
+MOVE,O,"0,2"
+MOVE,X,"1,1"
+GAME_END,system,draw
+GAME_START,system,New Game
+MOVE,X,"2,0"
+MOVE,O,"0,0"
+MOVE,X,"2,2"
+MOVE,O,"0,2"
+MOVE,X,"1,2"
+MOVE,O,"1,0"
+MOVE,X,"0,1"
+MOVE,O,"2,1"
+MOVE,X,"1,1"
+GAME_END,system,draw
