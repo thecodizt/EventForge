@@ -1,0 +1,17 @@
+name: "/games/tic-tac-toe/bidir_lstm_multihead_10k"
+
+model:
+  type: "Bidirectional Multihead LSTM"
+  embedding_dim: 128
+  hidden_size: 256
+  num_layers: 2
+
+training:
+  batch_size: 64
+  num_epochs: 10
+
+data:
+  game: "tic-tac-toe"
+  sequence_length: 20
+  max_event_length: 50
+  path: "/games/tic-tac-toe/10k_single_agent.csv"
