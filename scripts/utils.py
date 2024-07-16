@@ -100,7 +100,7 @@ def simulate_predictions(data, model, e_event, e_agent, e_context, n = 15, k = 1
     for i, (event, agent, context) in enumerate(predictions, 1):
         print(f"Move {i}: {event}, {agent}, {context}")
         
-def train_and_test(X_train, X_test, y_train, y_test, e_event, e_agent, e_context, build_model, name, epochs, batch_size):
+def train_and_test(X_train, X_test, y_train, y_test, e_event, e_agent, e_context, build_model, name, epochs, batch_size, model_params=None):
     with tf.device(device):
         # Prepare inputs and outputs
         X_train_event = X_train[:, :, 0].reshape(X_train.shape[0], X_train.shape[1], 1)
@@ -121,7 +121,7 @@ def train_and_test(X_train, X_test, y_train, y_test, e_event, e_agent, e_context
 
         # Build and train model
         model = build_model(X_train_event.shape[1:],
-                            [len(e_event.classes_), len(e_agent.classes_), len(e_context.classes_)])
+                            [len(e_event.classes_), len(e_agent.classes_), len(e_context.classes_)], model_params)
 
         model.fit([X_train_event, X_train_agent, X_train_context],
                     [y_train_event, y_train_agent, y_train_context],
@@ -140,7 +140,7 @@ def train_and_test(X_train, X_test, y_train, y_test, e_event, e_agent, e_context
         for metric_name, value in zip(model.metrics_names, results):
                 print(f"{metric_name}: {value:.4f}")
                 
-        model.save(f'../../../models/{name}.h5')
+        model.save(f'../../../../models/{name}.h5')
                 
         return model
     

@@ -1,0 +1,20 @@
+name: "/games/tic-tac-toe/cnn/cnn_1k"
+
+model:
+  type: "CNN"
+  num_filters: 128
+  filter_sizes:
+    - 3
+    - 4
+    - 5
+
+training:
+  batch_size: 64
+  learning_rate: 0.001
+  num_epochs: 5
+
+data:
+  game: "tic-tac-toe"
+  sequence_length: 20
+  max_event_length: 50
+  path: "/games/tic-tac-toe/1k_single_agent.csv"
