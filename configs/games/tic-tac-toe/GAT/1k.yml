@@ -1,0 +1,52 @@
+name: "/games/tic-tac-toe/integrated_gat_hrnn"
+
+model:
+  type: "Integrated GAT-HRNN with Dual Attention"
+  gat_units: 32
+  lstm_units: 128
+  num_lstm_layers: 4
+  attention_heads: 4
+  integration_units: 256
+
+training:
+  batch_size: 64
+  learning_rate: 0.001
+  num_epochs: 5
+  optimizer: "adam"
+  loss: "categorical_crossentropy"
+
+data:
+  game: "tic-tac-toe"
+  sequence_length: 20
+  max_event_length: 50
+  num_agents: 2
+  num_roles: 2
+  path: "games/tic-tac-toe/10k_single_agent.csv"
+
+input:
+  - name: "agent_features"
+    shape: [2, 20]  # [num_agents, sequence_length]
+  - name: "adjacency_matrix"
+    shape: [2, 2]  # [num_agents, num_agents]
+  - name: "role_masks"
+    shape: [2, 2]  # [num_agents, num_agents]
+
+output:
+  - name: "event_prediction"
+    num_classes: 9  # Number of possible events in tic-tac-toe
+  - name: "agent_prediction"
+    num_classes: 2  # Number of agents
+  - name: "context_prediction"
+    num_classes: 20  # Adjust based on your context encoding
+
+evaluation:
+  metrics:
+    - "accuracy"
+    - "precision"
+    - "recall"
+    - "f1_score"
+
+visualization:
+  attention_maps: True
+  learning_curves: True
+  confusion_matrix: True
